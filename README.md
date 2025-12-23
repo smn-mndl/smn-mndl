@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development and Data Science
 - 🌱 I’m currently learning Java and LangChain
 - 💞️ I’m looking to collaborate on LangChain projects
-- 📫 How to reach me - Please contact me through my personal website - [https://sumanmondal.com](https://newsumanbio.web.app/ )
+- 📫 How to reach me - Please contact me through my personal website - [https://newsumanbio.web.app](https://newsumanbio.web.app/ )
 
 <!---
 smn-mndl/smn-mndl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
