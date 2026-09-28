@@ -1,4 +1,4 @@
-# Hi, I'm Suman Mondal 👋
+# Hi, I'm Suman Mondal
 
 Senior Software Engineer with 8.5+ years of experience building web applications and full-stack solutions.
 
